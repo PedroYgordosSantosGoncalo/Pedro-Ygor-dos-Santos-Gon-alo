@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 🙃
+### Bem vindo ao meu perfil 🙃
 
 Meu nome é **Pedro Ygor**
 
@@ -9,4 +9,10 @@ Meu nome é **Pedro Ygor**
  
 contato:**pygorslife@gmail.com**
 
-![](https://media1.tenor.com/m/jg7k01FBbTsAAAAd/thumbs-up-well-done.gif)
+<!--![30,20](https://media1.tenor.com/m/jg7k01FBbTsAAAAd/thumbs-up-well-done.gif)-->
+
+<img src=https://media1.tenor.com/m/jg7k01FBbTsAAAAd/thumbs-up-well-done.gif
+width=200 />
+
+
+<!--[quase_um_software_de_design_2024_08_28_14_53_42.zip](https://github.com/user-attachments/files/16785166/quase_um_software_de_design_2024_08_28_14_53_42.zip)-->
